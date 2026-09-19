@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "0d06b2e63cc08cd5a3144d00",
+  "owner": "yjjocltc",
+  "repo": "page-ccaa1443636e1ad772731e2c",
+  "title": "J20",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ccaa1443636e1ad772731e2c",
+      "a": "J20",
+      "b": "clash verge下载",
+      "entity": "J20",
+      "brand": "J20",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "492cf7be34d67be5b362f4b3c6534944681ef78ba2fb107ed7f145cd683afec1",
+      "content": {
+        "primary_entity": "J20",
+        "keyword1": "J20",
+        "keyword2": "clash verge下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "J20 支持 Clash Verge、Clash Verge Rev 在 Windows、macOS 与 Linux 上使用，Chrome 与 Edge 浏览器扩展也可作为轻量方案；移动端建议使用 Shadowrocket 或 Clash for Android，按设备选择对应客户端导入订阅。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "对照流量、设备数量与预算选择基础版、旗舰版或团队版，年付可享受更低月均成本。",
+          "AI_CLOSING_TITLE": "选择适合的套餐",
+          "AI_DESCRIPTION": "，J20 提供基础版、旗舰版与团队版三档订阅，月付价格为 ¥15、¥35 与 ¥85，年付价格分别为 ¥150、¥350 与 ¥850，流量从每月 100GB 到 1000GB，同时在线设备数从 3 台到 20 台。旗舰版包含 IPLC 专线与全节点原生流媒体解锁，团队版提供 VIP 高带宽节点与企业定制路由。Windows、macOS 与 Linux 可选用 Clash Verge 或 Clash Verge Rev 导入订阅，移动端可选用 Shadowrocket，按客户端文档完成配置后即可使用。",
+          "AI_FEATURES_INTRO": "从套餐选择、设备需求与订阅周期三个角度快速了解 J20 的使用方式。",
+          "AI_FEATURES_TITLE": "功能亮点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合个人日常浏览与基础流媒体；旗舰版每月 300GB、5 台设备，并加入 IPLC 专线；团队版每月 1000GB、20 台设备，面向多人协作与高带宽场景。",
+          "AI_FEATURE_TITLE_1": "按流量与设备选套餐",
+          "AI_FEATURE_TEXT_2": "桌面端推荐 Clash Verge 或 Clash Verge Rev，移动端可选用 Shadowrocket，浏览器扩展适用于轻量访问，按客户端文档导入订阅并选择节点即可。",
+          "AI_FEATURE_TITLE_2": "多端客户端支持",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付可降低月均成本：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，订阅有效期内可持续使用所选节点池。",
+          "AI_FEATURE_TITLE_3": "灵活订阅周期",
+          "AI_GUIDE_INTRO": "从确定套餐到完成订阅配置，三个步骤即可开始使用 J20。",
+          "AI_GUIDE_TITLE": "使用指引",
+          "AI_HERO_INTRO": "J20 是覆盖桌面与移动端的海外加速器服务，提供基础版、旗舰版与团队版三档订阅，支持 Clash Verge、Clash Verge Rev、Shadowrocket 等客户端导入订阅，适合按流量、设备数量与预算选择套餐的用户。",
+          "AI_HERO_SUBTITLE": "按流量与设备选的加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 游戏加速专线",
+          "AI_HIGHLIGHT_3": "年付方案降低月均使用成本",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，含每月 100GB 流量与 3 台设备；旗舰版 ¥35/月或 ¥350/年，含每月 300GB 流量、5 台设备与 IPLC 专线；团队版 ¥85/月或 ¥850/年，含每月 1000GB 流量与 20 台设备。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求、同时在线设备数量与是否使用流媒体或游戏加速，从基础版、旗舰版与团队版中选择合适的订阅方案。",
+          "AI_STEP_TITLE_1": "选择服务方案",
+          "AI_STEP_TEXT_2": "查看客户端适配说明，确认设备系统支持 Clash Verge、Clash Verge Rev、Shadowrocket 或浏览器扩展，并核对套餐内允许的同时在线设备数量。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在选定的客户端中导入 J20 订阅链接，参考对应客户端文档完成节点选择与代理规则配置，保存后即可开始使用。",
+          "AI_STEP_TITLE_3": "按客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "J20 海外加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。手机、平板、电脑可分别配置，超出数量时升级套餐即可获得更多设备位置。",
+          "AI_FAQ_ANSWER_2": "三档套餐分别是每月 100GB、300GB 和 1000GB。日常聊天、浏览网页选基础版；常看流媒体或玩游戏选旗舰版；多人共用或团队办公选团队版。",
+          "AI_FAQ_ANSWER_3": "按年付比月付更划算。基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，一次支付全年，无需每月续费。",
+          "AI_FAQ_ANSWER_4": "旗舰版提供全节点流媒体解锁和 IPLC 专线游戏加速，适合对速度与稳定性要求较高的场景。团队版另有 VIP 高带宽节点和企业定制路由。",
+          "AI_FAQ_ANSWER_5": "在购买后获取订阅地址，复制到对应客户端并导入，按客户端文档选择节点后开启连接。不同设备的具体导入方式略有差别。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个 J20 账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "三档套餐的月流量差别大吗，怎么选？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付价格差多少？",
+          "AI_FAQ_QUESTION_4": "旗舰版和团队版分别适合什么场景？",
+          "AI_FAQ_QUESTION_5": "拿到订阅后怎么导入客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "04c337c8ae4e33f2619650d107a8ebf8f4b7980059b4c84262620599fdd201a8",
+    "sitemap.xml": "faec15c6250dc6b9f6f8472315e46c5d9df46e1961b06c3292f07d9c16cea880",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "ce3e7abba9d844f214750cfac57643c8fbf55a2b3155d0158f5007ee16d4eaf3"
+}
